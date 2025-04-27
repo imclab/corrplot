@@ -1,0 +1,7 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.travis\.yml$
+^\.lintr$
+^\.github$
+^vignettes/webimg
+^codecov\.yml$
